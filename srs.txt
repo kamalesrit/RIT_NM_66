@@ -1,0 +1,15 @@
+Pizza delivery system is a web-based application which enables customers to order their pizzas online for home delivery or pick up from the pizzeria. There are a variety of food items available on this planet. Each country has its own kind of dishes to offer. But if we pick a food item which is loved by all the people on this planet, then pizza will be a clear winner in it.
+ This SRS is made to briefly describe the requirements of the project of online pizza ordering using speaking agents.
+ It will tell us about all the requirements for making this project. 
+
+ 1.1 purpose :The purpose of this document is to present a detailed description of the Web Publishing System.
+  It will explain the purpose and features of the system, the interfaces of the system, what the system will do, the constraints under which it must operate and how the system will react to external stimuli. \
+ This document is intended for both the stakeholders and the developers of the system.
+
+ 1.2 scope :The Order booking system is an online web application that permits new users to place their orders online.
+  Also the outlets agent had done the same job when a user calls to them to place an order; the agents can also view complaints & edit ord
+
+  1.4 Objectives of Online Pizza Ordering System:The main objectives of this ordering system are:1.4.1 Build your own pizza – This system will help customers in ordering custom pizzas. So the customer will pick exactly the things which he/she wants in their pizza. This will surely enhance the image of the pizzeria and customer satisfaction will be more.1.4.2 Online Payment- This system will give the option to the customer for online payment. 
+  This will make pizza buying experience cash free.1.4.3 Better Knowledge- This system will provide customer all the details of his order before making the order. 
+  This confirmation will help customers to check the items ordered with their prices.
+  
